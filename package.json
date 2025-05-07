@@ -1,0 +1,15 @@
+{
+  "name": "dota2ai-landing",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d out"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "gh-pages": "^6.3.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
