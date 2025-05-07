@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out",
+    "clean": "rm -rf out"
   },
   "homepage": "https://luchanso.github.io/dota2ai",
   "devDependencies": {
