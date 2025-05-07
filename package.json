@@ -6,7 +6,7 @@
     "deploy": "gh-pages -d out",
     "clean": "rm -rf out"
   },
-  "homepage": "https://luchanso.github.io/dota2ai",
+  "homepage": "https://luchanso.github.io/dota2ai/",
   "devDependencies": {
     "@types/bun": "latest",
     "gh-pages": "^6.3.0"
